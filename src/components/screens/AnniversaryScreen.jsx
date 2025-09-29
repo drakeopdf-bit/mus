@@ -8,7 +8,7 @@ export default function AnniversaryScreen({ onNext }) {
     const [displayedDays, setDisplayedDays] = useState(0)
 
     // Set your special date here (YYYY-MM-DD)
-    const specialDate = new Date("2024-09-11") // Change this to your actual date
+    const specialDate = new Date("2025-05-30") // Change this to your actual date
 
     useEffect(() => {
         // Calculate actual days since anniversary
@@ -43,11 +43,11 @@ export default function AnniversaryScreen({ onNext }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.3, duration: 0.8 }}
                 >
-                    Happy Anniversary{" "}
+                    Happy 4th Anniversary dear{" "}
                     <motion.span
                         className="text-purple-400"
                     >
-                        Cutiepiee
+                        Chikku 🐣
                     </motion.span>
                 </motion.h1>
 
