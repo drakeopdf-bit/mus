@@ -44,7 +44,7 @@ export default function LoaderScreen({ onComplete }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.4, duration: 0.8 }}
                 >
-                    Loading something special...
+                    Loading something special... Rukja toda Chudel
                 </motion.h1>
 
                 <motion.div
