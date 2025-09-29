@@ -20,7 +20,7 @@ I promise to love you through all of life's adventures, to support your dreams, 
 Happy Anniversary, my beautiful soul. Here's to many more years of love, laughter, and endless happiness together.
 
 With all my love and devotion,
-Your Forever Person 💕`
+Your Forever Mohit 💕`
 
     const handleCardClick = () => {
         setShowOverlay(true)
