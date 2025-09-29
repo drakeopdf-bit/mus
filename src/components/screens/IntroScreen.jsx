@@ -17,7 +17,7 @@ export default function IntroScreen({ onNext }) {
                     <motion.h1
                         className="text-5xl md:text-6xl font-bold text-pink-400 mb-4 text-balance"
                     >
-                        It's Our Special Day
+                        It's Our Special Day Bby
                     </motion.h1>
                 </motion.div>
 
@@ -44,7 +44,7 @@ export default function IntroScreen({ onNext }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 1, duration: 0.8 }}
                 >
-                    I made something special for you...
+                    I made something special for you My KajuKatli... 
                 </motion.p>
 
                 {/* Start button */}
@@ -71,7 +71,7 @@ export default function IntroScreen({ onNext }) {
                     />
 
                     <span className="relative z-10 flex items-center gap-2">
-                        Start Our Journey ✨
+                        Start Our Lovely Journey ✨
                     </span>
                 </motion.button>
             </div>
