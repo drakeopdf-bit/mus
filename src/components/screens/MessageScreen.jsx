@@ -7,7 +7,7 @@ import ScreenContainer from "../ScreenContainer"
 export default function MessageScreen() {
     const [showOverlay, setShowOverlay] = useState(false)
 
-    const romanticMessage = `My Dearest Cutiepiee,
+    const romanticMessage = `My Dearest Pyaari si chudel 🐥,
 
 Every day with you feels like a beautiful dream that I never want to wake up from. You've brought so much joy, laughter, and warmth into my life that I can't imagine a world without you in it.
 
@@ -46,7 +46,7 @@ Your Forever Person 💕`
                         }}
                         transition={{ duration: 3, repeat: Number.POSITIVE_INFINITY }}
                     >
-                        A Special Message For You
+                        A Special Message For You Babu 🥹
                     </motion.h1>
                 </motion.div>
 
@@ -80,7 +80,7 @@ Your Forever Person 💕`
                                 For You, My Cutiepiee
                             </h3>
 
-                            <p className="text-purple-300 text-sm">Click to read my message</p>
+                            <p className="text-purple-300 text-sm">Click to read my Dil Ki Baat💝</p>
                         </div>
                     </motion.div>
                 </motion.div>
@@ -111,7 +111,7 @@ Your Forever Person 💕`
 
                                 <div className="text-center mb-6">
                                     <h3 className="text-3xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-2">
-                                        Happy Anniversary!
+                                        Happy 4th Anniversary!
                                     </h3>
                                     <p className="text-purple-300">This is just for you ♥</p>
                                 </div>
