@@ -9,15 +9,26 @@ export default function MessageScreen() {
 
     const romanticMessage = `My Dearest Pyaari si chudel 🐥,
 
-Every day with you feels like a beautiful dream that I never want to wake up from. You've brought so much joy, laughter, and warmth into my life that I can't imagine a world without you in it.
+🌸 Happy 4th Anniversary My Love 🌸
 
-From the moment we first met, I knew there was something special about you. Your smile lights up my darkest days, your laugh is my favorite sound in the world, and your love has made me a better person.
+Babu, aaj hum dono ka 4th anniversary hai aur main itna khush hoon ki words kam pad rahe hain. Tu meri life mein itni unexpected tareeke se aayi aur ekdum se meri zindagi ka sabse important hissa ban gayi. Chudel, tujhe andaza bhi nahi hai ki tu mere liye kya hai. ❤️
 
-Thank you for being my partner, my best friend, and my greatest love. Thank you for all the little moments that make up our big love story - the morning coffees, the late-night conversations, the silly jokes, and the quiet moments where we just exist together in perfect harmony.
+Babu, maine tujhe pehle bhi bola tha aur aaj bhi bol raha hoon — you are my kind of luck. Jab tu mere saath hai, mujhe life mein kisi aur luck ki zarurat hi nahi padti. You are that kind of luck who can turn stones even in the darkest of times, jahan har moment dangerous ho sakta hai.
 
-I promise to love you through all of life's adventures, to support your dreams, to laugh with you, cry with you, and grow old with you. You are my today, my tomorrow, and my always.
+Chaar mahine ho gaye tere pyaare-pyaare gusse ko dekhte-dekhte, tera "pyaar Jayda na dikane” ki acting ko dekhte-dekhte 😄 … but I know from inside how much you love me, meri chudel si.
 
-Happy Anniversary, my beautiful soul. Here's to many more years of love, laughter, and endless happiness together.
+Babu, teri woh aadat – har risk le kar video call karna, chahe kitna bhi risk ho, chahe tera mood kitna bhi kharab ho, gussa karke bhi end mein mujhe sab kuch text karke bata dena – yeh sab cheeze mujhe bahut pasand hai. Tu face to face pyaar express nahi kar paati, par text mein jo tera pyaar hota hai na, woh alag hi hai. Hehe 😍 or gussa bi bhyiiii..
+
+I love all your habits mera babu – jaise tu video call pe alag baate karti hai, call pe alag aur text pe alag-alag tone mein baate karti hai. College mein alag tone, ghar mein alag tone… babu, tera mood kaisa hai, mujhe teri awaaz se hi pata chal jata hai, chahe tu kitna bhi chhupaye.
+
+Aur haan, kaise bhool sakta hoon main tera bichchu ki tarah katna 😅 aur teri chhoti si zubaan itti si, itti si zuban jo maine measure ki hai apni zubaan se kitni chlti h bhyii voooo........... trrrrrrrrrrrrrrr trrrrrrrrrrrrrrrrr trrrrrrrrrrrrrrrrr...... but mera bby tu bolta he , hasata khelta he, achha lagta h merko. Main tujhe aise hi dekhna chahta hoon meri chudel sari zindagi, chahe tujhe khush karne ke liye mujhe kuch bhi karna pade.
+
+Aur tu bol rahi thi na “itna efforts mat daal” – babu ek baat bataun: I believe in “You will get, who you are.” Samjha? Everything will return back. Yeh efforts tujhe lagte honge, mujhe nahi… dekhna ek din sab kuch wapas mere paas aayega. Jo maine sabko diya hai, woh sab cheeze wapas aayengi mere paas. Aur shayad tu bhi un karmon ka fal hai, jo mujhe is generation mein teri jaisi ladki,  mera pyaara sa baccha… aur aage bhi milega, meri babu ke jariye… hai na?
+
+All I want from you, babu, is your loyalty. Never ever, even by mistake, do such things that break my heart, my dear… because then it never be the same, whether we try thousands of times. ❤️ or bakki sab me dekh he lunga mera bby, meri chudel, tu kisi cheez ki chinta naa kia kr, kisi bi cheez ki.... " Me Hu Naa" yaad rakhio bss.....
+
+I love you soooo sooooo much, chudel.
+Happy Anniversary Again. 🌹
 
 With all my love and devotion,
 Your Forever Mohit 💕`
